@@ -29,3 +29,8 @@ Copie e cole no formato abaixo:
 ---
 **Nome:** Weller, Rebeca, Ludmilla
 **GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
+
+---
+**Nome:** ATXC, Taylon
+**GitHub:** https://github.com/Ataxerce/Exerc-cio-de-HTML
+
