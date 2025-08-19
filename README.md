@@ -21,3 +21,7 @@ Copie e cole no formato abaixo:
 
 **Nome:** Vitória, Beatriz e Giulianna
 **GitHub:** https://github.com/giuliannamg03-ctrl/Supernatural/blob/main/README.md?plain=1
+
+---
+**Nome:** Isabelly reis
+**GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
