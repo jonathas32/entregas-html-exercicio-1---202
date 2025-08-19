@@ -25,3 +25,7 @@ Copie e cole no formato abaixo:
 ---
 **Nome:** Isabelly reis
 **GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
+
+---
+**Nome:** Weller, Rebeca, Ludmilla
+**GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
