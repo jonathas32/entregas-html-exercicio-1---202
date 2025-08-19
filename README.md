@@ -38,3 +38,10 @@ Copie e cole no formato abaixo:
 **Nome:** GISELE
 **GitHub:** https://github.com/Gisele-desig/Exerc-cio-de-HTML5
 
+---
+**Nome:** Ria7
+**GitHub:** https://github.com/rian72891/Exerc-cio-de-HTML5/edit/main/README.md
+
+
+
+
