@@ -42,6 +42,11 @@ Copie e cole no formato abaixo:
 **Nome:** Ria7
 **GitHub:** https://github.com/rian72891/Exerc-cio-de-HTML5/edit/main/README.md
 
+---
+**Nome:** Juliander
+**GitHub:** https://github.com/Juliander222/Exerc-cio-de-HTML5/blob/main/README.md
+
+
 
 
 
