@@ -16,3 +16,8 @@ Copie e cole no formato abaixo:
 
 **Nome:** yan pierre peixinho 
 **GitHub:** https://github.com/Girley2008?tab=repositories
+
+---
+
+**Nome:** Vitória, Beatriz e Giulianna
+**GitHub:** https://github.com/giuliannamg03-ctrl/Supernatural/blob/main/README.md?plain=1
