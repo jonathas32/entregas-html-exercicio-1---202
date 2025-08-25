@@ -47,5 +47,9 @@ Copie e cole no formato abaixo:
 **GitHub:** https://github.com/isabellamascarenhas08/Exerc-cio-html/blob/main/README.md
 
 
+---
+**Nome:** Alice Costa Ribeiro
+**GitHub:** https://github.com/alicecosta1313/eera
+
 
 
